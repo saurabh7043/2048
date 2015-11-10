@@ -1014,3 +1014,9 @@ a.retry-button {
   margin-left: 10px;
   float: center;
 }
+
+div {
+  padding: 20px;
+  background-color: black;
+  margin: 10px;
+}
